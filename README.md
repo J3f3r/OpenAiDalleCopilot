@@ -5,7 +5,9 @@
 O Microsoft Copilot é um assistente de inteligência artificial generativa desenvolvido pela Microsoft. Ele tem a capacidade de combinar dados e executar funções nos principais softwares da empresa. Lançado em março de 2023, o Copilot oferece suporte ao pacote do Microsoft 365, ao Edge e ao Windows 111. Aqui estão algumas das suas funcionalidades:
 
 No Word: O Copilot vai além da simples criação de textos. Ele pode criar documentos com base em informações e formatação de arquivos antigos, mantendo um padrão. Além disso, permite importar dados de planilhas do Excel, apresentações do PowerPoint e notas do OneNote.
+
 No PowerPoint: O assistente gerencia apresentações de slides, criando novos arquivos a partir de documentos do Word, adaptando proporções entre texto e imagem e aplicando efeitos de animação.
+
 No Excel: Simplifica o uso de fórmulas complexas, analisa dados em larga escala e gera resumos com informações principais, além de criar novas planilhas com base em situações hipotéticas.
 
 O Microsoft Copilot usa IA generativa para aprimorar os resultados de pesquisa do Bing. O que isto significa é que, diferentemente da pesquisa apenas, que retorna conteúdo existente, o Microsoft Copilot pode reunir novas respostas com base na modelagem de linguagem natural e nas informações da web.
